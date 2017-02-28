@@ -1,0 +1,285 @@
+story:
+- "{idea_char} {tech} / {tech2} / {space}"
+- "{idea_char} {tech} / {space}"
+- "{future_char} {tech} / {application} / {zeit} over {time}yrs"
+
+# Driving forces of change, or rapidly changing technology that can be
+# applied to things.
+tech:
+- Bitcoin
+- Drones
+- Cryptography
+- AI
+- Computer Vision
+- Bioengineering
+- Self-Driving
+- Gene Editing
+- Servomotor
+- Arduino
+- Tiny Cameras
+- Voice Interface
+- Chatbot
+- Carbon Capture
+- Sensors
+- Hacked Android
+- Programming Language
+- Mesh Networking
+- Biohacking
+- GPU
+- EEG
+- Smart Contracts
+- Projection Mapping
+- AR
+- VR
+- Satelite
+- Robot
+- Facial Recognition
+- 3D Printing
+- Live-streaming
+- Geotagging
+- LEDs
+- Crowdfunding
+- Automation
+- IOT
+- Algorithms
+- Deep Learning
+- Neural Nets
+- Solar
+- BitTorrent
+- Swarm Robotics
+- DNA Sequencing
+- BLE
+- Cellular Agriculture
+- Biosynthesis
+- Big Data
+- Sharing Economy
+- P2P
+
+# These startups represent a category. They are the "Kleenex" of a driving
+# force of change.
+startups:
+- Wikipedia
+- Soylent
+- Roomba
+- Alexa
+- Uber
+- Twitch
+
+# These are contexts, places, ideas, cultures, problems, dilemmas
+terrain:
+- Nomadic Living
+- Travel
+- Architecture
+- Language
+- Sleep
+- Shelter
+- Geoengineering
+- Plant
+- Car
+- Grocery Store
+- Clothing
+- Tourism
+- Immigration
+- Politics
+- Local Governance
+- Wilderness
+- Kindergarden
+- Rural Area
+- Takeout
+- Infrastructure
+- Civilization
+- Apartment
+- Kitchen
+- Comedy
+- Sports
+- Asteriod Mining
+- Seasteading
+- School
+- Election
+- Identity
+- Abandoned Industrial Site
+- Choreography
+- Law
+- Movies
+- Marketplace
+- Forest
+- Moon
+- Mars
+- Gym
+- Event
+- Wildlife
+- Alone at Sea
+- Offgrid
+- Seafaring
+- Relationships
+- Dating
+- Informal Architecture
+- Emergency Situations
+- Remote Locations
+- Hiking
+- Civics
+- Volunteering
+- Parks
+- Neighbors
+- Low-Earth Orbit
+- Deforestation
+- Preppers
+- Extinction
+- Conservation
+- The Arctic
+- Tunnels
+- Cooking
+- Co-Op
+- Commuting
+- Working Out
+- Music
+- Healthcare
+- Voting
+- Democracy
+- Hedge Funds
+- Transportation
+- Fashion
+- Nonverbal Communication
+- Broadcast
+- Whole Earth Catalog
+- Painting
+- Fast Food
+- Megacity
+- Citystate
+- Shipping
+- Migration
+- Office
+- Grey Market
+- Gambling
+- Mercenaries
+- Religion
+- Traffic
+- Being the Traffic
+- Animals
+- Biology
+- Oceans
+- Meat
+- Oil
+- War
+- Resources & Waste
+- Water
+- Safety
+- Communication
+- Creating
+- Disease
+- Banking
+- Food
+- Economics
+- Money
+- Debt
+- Weather
+- Permaculture
+- Monocrops
+- 10 seconds
+- Floods
+- Drought
+
+mood:
+- Mindfulness
+- Pacifism
+- Transhumanism
+- Satisficing
+- Enlightenment Ideals
+- Meditation
+- No more jobs!
+- Contemplation
+- Quiet
+- Playful
+- Anxiety
+- Secrecy
+- Meaning
+- Curiousity
+
+thing:
+- Inflatable Architecture
+- Farming
+- Dessert
+- Restaurant
+- Silly String
+- Building
+- Drug
+- Seeds
+- Dance
+- Snack
+- Map
+- Poster
+- Tchotchke
+- Coin
+- Delivered in a Box
+- Kit
+- Toy
+- T-Shirt
+- Sculpture
+- Vehicle
+- Festival
+- Song
+- Monument
+- Drink
+- Cocktail
+- Action Figure
+- Book
+- Pet
+- Hat
+- Bicycle
+- Tent
+- Secret Society
+- Art Installation
+- Sprinkles
+- Jewellery
+- Sticker
+- Gift
+- Tattoo
+- Game
+- Documentary
+- Play
+- Relic
+- Boat
+- Ritual
+- Quest
+- Prosthetic
+- Instrument
+- Candy
+- Graffiti
+- Cabin
+- Coral
+- Glasses
+- Shoes
+- Music Video
+- Kid's Show
+- TV
+
+arc:
+- Exponential Growth
+- Linear Growth
+- Discipline
+- Stagnation
+- Collapse
+- Transformation
+- Discontinuity
+- Overpopulation
+- Depopulation
+- Zero-Sum
+- Aspiration
+- Acceptance
+- Multiculturalism
+- Fragmentation
+- Polarization
+- Idealism
+- Excitement
+
+time:
+- 100
+- 50
+- 20
+- 20
+- 15
+- 15
+- 10
+- 10
+- 5
+- 5
