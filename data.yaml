@@ -14,7 +14,6 @@ tech:
 - Bioengineering
 - Self-Driving
 - Gene Editing
-- Servomotor
 - Arduino
 - Tiny Cameras
 - Voice Interface
@@ -54,6 +53,15 @@ tech:
 - Big Data
 - Sharing Economy
 - P2P
+- MOOC
+- Nanotubes
+- Text-to-speech
+- Speech-to-text
+- Generative
+- Blockchain
+- End-to-end encryption
+- Homomorphic encryption
+- Social Network
 
 # These startups represent a category. They are the "Kleenex" of a driving
 # force of change.
@@ -64,8 +72,9 @@ startups:
 - Alexa
 - Uber
 - Twitch
+- Amazon
 
-# These are contexts, places, ideas, cultures, problems, dilemmas
+# These are contexts, places, spaces, cultures, problems, dilemmas
 terrain:
 - Nomadic Living
 - Travel
@@ -74,6 +83,7 @@ terrain:
 - Sleep
 - Shelter
 - Geoengineering
+- Messaging
 - Plant
 - Car
 - Grocery Store
@@ -82,8 +92,9 @@ terrain:
 - Immigration
 - Politics
 - Local Governance
+- Commune
 - Wilderness
-- Kindergarden
+- Kindergarten
 - Rural Area
 - Takeout
 - Infrastructure
@@ -104,6 +115,8 @@ terrain:
 - Marketplace
 - Forest
 - Moon
+- Capitalism
+- Markets
 - Mars
 - Gym
 - Event
@@ -178,6 +191,8 @@ terrain:
 - 10 seconds
 - Floods
 - Drought
+- Farming
+- After-school Program
 
 mood:
 - Mindfulness
@@ -191,13 +206,15 @@ mood:
 - Quiet
 - Playful
 - Anxiety
+- Anticipation
 - Secrecy
 - Meaning
 - Curiousity
+- Distrust
+- Play
 
 thing:
 - Inflatable Architecture
-- Farming
 - Dessert
 - Restaurant
 - Silly String
@@ -233,10 +250,10 @@ thing:
 - Jewellery
 - Sticker
 - Gift
+- Teapot
 - Tattoo
 - Game
 - Documentary
-- Play
 - Relic
 - Boat
 - Ritual
@@ -271,6 +288,9 @@ arc:
 - Polarization
 - Idealism
 - Excitement
+- Decentralization
+- Independence
+- Individualism
 
 time:
 - 100
