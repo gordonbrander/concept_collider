@@ -62,6 +62,8 @@ tech:
 - End-to-end encryption
 - Homomorphic encryption
 - Social Network
+- High-frequency Trading
+- Bot
 
 # These startups represent a category. They are the "Kleenex" of a driving
 # force of change.
@@ -78,6 +80,11 @@ startups:
 terrain:
 - Nomadic Living
 - Travel
+- Kibbutz
+- Lifelong Learning
+- Collectivism
+- City Planning
+- Roads
 - Architecture
 - Language
 - Sleep
@@ -159,6 +166,7 @@ terrain:
 - Fast Food
 - Megacity
 - Citystate
+- Nationstate
 - Shipping
 - Migration
 - Office
@@ -193,6 +201,9 @@ terrain:
 - Drought
 - Farming
 - After-school Program
+- Disaster Relief
+- Charity
+- Community Center
 
 mood:
 - Mindfulness
